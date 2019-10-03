@@ -1,2 +1,2 @@
 # demo
-spring boot demo app
+spring boot demo application
